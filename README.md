@@ -30,8 +30,9 @@ Retail Demand Forecasting System is a machine learning and business analytics pr
 
 ## Project Structure
 
+```text
 Retail-Demand-Forecasting/
-
+│
 ├── data/
 │   └── train.csv
 │
@@ -49,7 +50,7 @@ Retail-Demand-Forecasting/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 ## Dashboard Insights
 
 * Forecasted Revenue
